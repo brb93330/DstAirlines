@@ -1,0 +1,23 @@
+{
+    "AircraftResource":{
+       "AircraftSummaries":{
+          "AircraftSummary":{
+             "AircraftCode":"A58",
+             "Names":{
+                "Name":{
+                   "@LanguageCode":"EN",
+                   "$":"Antonov An-158"
+                }
+             },
+             "AirlineEquipCode":"ZZZZ"
+          }
+       },
+       "Meta":{
+          "@Version":"1.0.0",
+          "Link":{
+             "@Href":"https://api.lufthansa.com/v1/mds-references/aircraft/A58?limit=100&offset=0",
+             "@Rel":"self"
+          }
+       }
+    }
+ }

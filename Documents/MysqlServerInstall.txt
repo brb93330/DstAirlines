@@ -1,0 +1,98 @@
+How to install a Mysql server with docker on a machine:
+
+== Install docker
+If you don't already have docker, choose the version for your platform and follow the installation procedure:
+
+https://docs.docker.com/engine/install/
+
+== Install mysql-server with docker
+You can follow the instructions here:
+
+https://hevodata.com/learn/docker-mysql/
+
+For our case, here is what I have done:
+
+-- image named mysql-docker-local with opened port
+docker run -p 3306:3306 --name mysql-docker-local -d mysql/mysql-server:latest
+
+-- to start/stop the mysql container:
+docker start mysql-docker-local
+docker restart mysql-docker-local
+docker stop mysql-docker-local
+
+== Post-install, configuration:
+
+= Change root pwd:
+sudo docker logs mysql-docker-local | grep PASSWORD
+--->
+[Entrypoint] GENERATED ROOT PASSWORD: 'generated root password'
+
+-- docker shell
+docker exec -it mysql-docker-local bash
+--->
+bash-4.4#
+mysql -uroot -p
+Enter password:             <-- Type in the 'generated root password'
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 32
+Server version: 8.0.32
+
+mysql>ALTER USER 'root'@'localhost' IDENTIFIED BY 'new root password';
+--->Query OK, 0 rows affected (0.01 sec)
+
+= Create application user
+Still in the mysql shell:
+
+mysql>CREATE USER 'fev23bde'@'%' IDENTIFIED BY '<user password>';
+mysql>GRANT ALL ON *.* TO fev23bde@'%';
+mysql>FLUSH PRIVILEGES;
+
+Note: You have to choose a password for the users root and fev23bde, and to save them somewhere.
+The '%' as host means that we can connect to the server with this user from any machine.
+The GRANT command is to allow the user to create the databse, the tables, and do everything.
+
+You can check that all your users are well configured like this:
+
+mysql> SELECT host,user FROM mysql.user;
+
+You should have something like:
+
++-----------+------------------+
+| host      | user             |
++-----------+------------------+
+| %         | fev23bde         |
+| localhost | healthchecker    |
+| localhost | mysql.infoschema |
+| localhost | mysql.session    |
+| localhost | mysql.sys        |
+| localhost | root             |
++-----------+------------------+
+
+Then exit from mysql with 'exit';
+
+The whole mysql commands, including the administration statements, are explained here:
+
+https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html
+
+== DBeaver:
+Download and install it from here: https://dbeaver.io/download/
+
+To connect, you will create a connection with the following parameters:
+
+- In the Main tab:
+
+Server Host: 127.0.0.1		Port: 3306
+Database:
+Username: fev23bde
+Password: ********
+
+- In the 'Driver Properties' tab:
+
+Look for the property allowPublicKeyRetrieval, and set to true.
+
+
+== Conclusion
+
+You should be all set to recreate the application database by running directly the Sql creation script.
+
+

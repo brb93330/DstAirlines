@@ -1,0 +1,2318 @@
+Debut mise à jour :  2023-05-01 18:37:11.232759
+Debut MAJ Statut pour  6928
+'AircraftRegistration'
+Erreur Gobale
+local variable 'OperatingCarrierFlightNumber' referenced before assignment
+Debut mise à jour :  2023-05-02 00:00:01.752082
+Debut MAJ Statut pour  4148
+'AircraftRegistration'
+Erreur :  3426  --  FRA  --  2023-05-01T17:24Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  3496  --  FRA  --  2023-05-01T20:21Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  3498  --  FRA  --  2023-05-01T18:41Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  3501  --  QDU  --  2023-05-01T04:17Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  3503  --  QDU  --  2023-05-01T05:18Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  3503  --  QDU  --  2023-05-01T05:18Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  352  --  FRA  --  2023-05-01T07:50Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  3551  --  ZWS  --  2023-05-01T03:01Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  359  --  BRE  --  2023-05-01T16:30Z  --  LH  --  LD
+Fin mise à jour :  2023-05-02 00:15:28.832111
+Debut mise à jour :  2023-05-02 10:09:04.300190
+Debut MAJ Statut pour  6888
+'AircraftRegistration'
+Erreur Gobale
+local variable 'OperatingCarrierFlightNumber' referenced before assignment
+Debut mise à jour :  2023-05-02 10:34:29.525250
+Debut MAJ Statut pour  6888
+'AircraftRegistration'
+Erreur Gobale
+local variable 'OperatingCarrierFlightNumber' referenced before assignment
+Debut mise à jour :  2023-05-02 22:00:10.135964
+Debut MAJ Statut pour  6406
+'AircraftRegistration'
+Erreur :  1617  --  WAW  --  2023-05-03T04:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1625  --  KRK  --  2023-05-02T14:40Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1626  --  MUC  --  2023-05-02T20:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  165  --  LEJ  --  2023-05-02T16:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  165  --  LEJ  --  2023-05-02T16:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1654  --  MUC  --  2023-05-02T20:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1654  --  MUC  --  2023-05-02T20:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1666  --  MUC  --  2023-05-02T20:25Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1666  --  MUC  --  2023-05-02T20:25Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1666  --  MUC  --  2023-05-02T20:25Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1666  --  MUC  --  2023-05-02T20:25Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1666  --  MUC  --  2023-05-02T20:25Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1666  --  MUC  --  2023-05-02T20:25Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1679  --  BUD  --  2023-05-02T15:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1682  --  MUC  --  2023-05-02T20:25Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  170  --  FRA  --  2023-05-03T04:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1705  --  SOF  --  2023-05-03T16:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1705  --  SOF  --  2023-05-03T16:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1711  --  DBV  --  2023-05-02T14:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1712  --  MUC  --  2023-05-02T13:55Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1714  --  MUC  --  2023-05-02T20:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1714  --  MUC  --  2023-05-02T20:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1714  --  MUC  --  2023-05-02T20:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1714  --  MUC  --  2023-05-02T20:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  172  --  FRA  --  2023-05-03T04:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  172  --  FRA  --  2023-05-03T04:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  172  --  FRA  --  2023-05-03T04:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  172  --  FRA  --  2023-05-03T04:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  175  --  BER  --  2023-05-03T05:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  175  --  BER  --  2023-05-03T05:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1754  --  MUC  --  2023-05-02T13:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1754  --  MUC  --  2023-05-02T13:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1756  --  MUC  --  2023-05-02T17:20Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1756  --  MUC  --  2023-05-02T17:20Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  176  --  FRA  --  2023-05-03T06:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  176  --  FRA  --  2023-05-03T06:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  177  --  BER  --  2023-05-03T06:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1779  --  LIS  --  2023-05-02T13:20Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1780  --  MUC  --  2023-05-02T17:25Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1780  --  MUC  --  2023-05-02T17:25Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1780  --  MUC  --  2023-05-02T17:25Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1780  --  MUC  --  2023-05-02T17:25Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1787  --  FAO  --  2023-05-02T14:50Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1788  --  MUC  --  2023-05-02T19:20Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1794  --  MUC  --  2023-05-02T13:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1795  --  PMI  --  2023-05-02T16:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1795  --  PMI  --  2023-05-02T16:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1795  --  PMI  --  2023-05-02T16:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1795  --  PMI  --  2023-05-02T16:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1795  --  PMI  --  2023-05-02T16:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1806  --  MUC  --  2023-05-02T17:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1806  --  MUC  --  2023-05-02T17:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1806  --  MUC  --  2023-05-02T17:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1806  --  MUC  --  2023-05-02T17:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1806  --  MUC  --  2023-05-02T17:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1806  --  MUC  --  2023-05-02T17:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1816  --  MUC  --  2023-05-02T13:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1816  --  MUC  --  2023-05-02T13:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1818  --  MUC  --  2023-05-02T17:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1818  --  MUC  --  2023-05-02T17:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1831  --  BIO  --  2023-05-03T05:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1833  --  AGP  --  2023-05-02T12:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1862  --  MUC  --  2023-05-02T20:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1862  --  MUC  --  2023-05-02T20:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1862  --  MUC  --  2023-05-02T20:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1870  --  MUC  --  2023-05-02T14:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1871  --  FCO  --  2023-05-02T17:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1871  --  FCO  --  2023-05-02T17:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1872  --  MUC  --  2023-05-02T17:35Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1872  --  MUC  --  2023-05-02T17:35Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1872  --  MUC  --  2023-05-02T17:35Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  188  --  FRA  --  2023-05-03T12:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  190  --  FRA  --  2023-05-03T13:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  190  --  FRA  --  2023-05-03T13:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  192  --  FRA  --  2023-05-02T14:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  192  --  FRA  --  2023-05-02T14:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1931  --  BER  --  2023-05-03T07:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1931  --  BER  --  2023-05-03T07:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1931  --  BER  --  2023-05-03T07:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1943  --  BER  --  2023-05-03T13:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1943  --  BER  --  2023-05-03T13:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1947  --  BER  --  2023-05-02T15:50Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1948  --  MUC  --  2023-05-02T15:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  195  --  BER  --  2023-05-03T14:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1952  --  MUC  --  2023-05-02T16:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1960  --  MUC  --  2023-05-02T18:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1960  --  MUC  --  2023-05-02T18:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1962  --  MUC  --  2023-05-02T19:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1962  --  MUC  --  2023-05-02T19:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  200  --  FRA  --  2023-05-02T17:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  200  --  FRA  --  2023-05-02T17:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  200  --  FRA  --  2023-05-02T17:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  200  --  FRA  --  2023-05-02T17:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  201  --  BER  --  2023-05-02T17:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  201  --  BER  --  2023-05-02T17:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  201  --  BER  --  2023-05-02T17:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  201  --  BER  --  2023-05-02T17:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  201  --  BER  --  2023-05-02T17:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2019  --  DUS  --  2023-05-02T14:55Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2020  --  MUC  --  2023-05-02T14:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2021  --  DUS  --  2023-05-02T16:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2034  --  MUC  --  2023-05-03T19:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  204  --  FRA  --  2023-05-03T05:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  204  --  FRA  --  2023-05-03T05:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2054  --  MUC  --  2023-05-03T06:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2054  --  MUC  --  2023-05-03T06:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2054  --  MUC  --  2023-05-03T06:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2054  --  MUC  --  2023-05-03T06:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2063  --  HAM  --  2023-05-02T15:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2063  --  HAM  --  2023-05-02T15:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2063  --  HAM  --  2023-05-02T15:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2069  --  HAM  --  2023-05-02T17:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2072  --  MUC  --  2023-05-02T16:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2075  --  HAM  --  2023-05-03T04:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2078  --  MUC  --  2023-05-02T19:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2078  --  MUC  --  2023-05-02T19:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2078  --  MUC  --  2023-05-02T19:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2078  --  MUC  --  2023-05-02T19:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2091  --  HAJ  --  2023-05-03T06:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2091  --  HAJ  --  2023-05-03T06:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  210  --  FRA  --  2023-05-03T11:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2101  --  HAJ  --  2023-05-02T15:25Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2101  --  HAJ  --  2023-05-02T15:25Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2103  --  HAJ  --  2023-05-02T17:55Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2103  --  HAJ  --  2023-05-02T17:55Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2106  --  MUC  --  2023-05-02T20:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2197  --  BRE  --  2023-05-02T18:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  022  --  FRA  --  2023-05-03T14:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2213  --  ORY  --  2023-05-03T07:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2213  --  ORY  --  2023-05-03T07:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2213  --  ORY  --  2023-05-03T07:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2213  --  ORY  --  2023-05-03T07:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2222  --  MUC  --  2023-05-02T19:20Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2222  --  MUC  --  2023-05-02T19:20Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2222  --  MUC  --  2023-05-02T19:20Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2222  --  MUC  --  2023-05-02T19:20Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2222  --  MUC  --  2023-05-02T19:20Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2222  --  MUC  --  2023-05-02T19:20Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  223  --  GWT  --  2023-05-03T15:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2238  --  MUC  --  2023-05-02T19:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2238  --  MUC  --  2023-05-02T19:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2266  --  MUC  --  2023-05-02T17:50Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2266  --  MUC  --  2023-05-02T17:50Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2266  --  MUC  --  2023-05-02T17:50Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2275  --  NCE  --  2023-05-02T16:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2276  --  MUC  --  2023-05-02T20:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2276  --  MUC  --  2023-05-02T20:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2276  --  MUC  --  2023-05-02T20:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2276  --  MUC  --  2023-05-02T20:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2305  --  AMS  --  2023-05-03T13:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2305  --  AMS  --  2023-05-03T13:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2323  --  LUX  --  2023-05-02T18:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2323  --  LUX  --  2023-05-02T18:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2405  --  TLL  --  2023-05-03T09:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2405  --  TLL  --  2023-05-03T09:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2405  --  TLL  --  2023-05-03T09:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2405  --  TLL  --  2023-05-03T09:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2405  --  TLL  --  2023-05-03T09:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2405  --  TLL  --  2023-05-03T09:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  242  --  FRA  --  2023-05-02T19:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2420  --  MUC  --  2023-05-02T19:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2420  --  MUC  --  2023-05-02T19:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2432  --  MUC  --  2023-05-02T18:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2432  --  MUC  --  2023-05-02T18:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2439  --  CPH  --  2023-05-03T06:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2439  --  CPH  --  2023-05-03T06:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2446  --  MUC  --  2023-05-02T19:40Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2446  --  MUC  --  2023-05-02T19:40Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2446  --  MUC  --  2023-05-02T19:40Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2446  --  MUC  --  2023-05-02T19:40Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2446  --  MUC  --  2023-05-02T19:40Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2455  --  OSL  --  2023-05-02T16:55Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2455  --  OSL  --  2023-05-02T16:55Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2456  --  MUC  --  2023-05-02T18:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  246  --  FRA  --  2023-05-03T05:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  246  --  FRA  --  2023-05-03T05:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2465  --  HEL  --  2023-05-02T16:40Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2466  --  MUC  --  2023-05-02T18:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2466  --  MUC  --  2023-05-02T18:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  247  --  MXP  --  2023-05-03T07:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  247  --  MXP  --  2023-05-03T07:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  247  --  MXP  --  2023-05-03T07:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  247  --  MXP  --  2023-05-03T07:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  247  --  MXP  --  2023-05-03T07:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  2477  --  LHR  --  2023-05-02T15:25Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2477  --  LHR  --  2023-05-02T15:25Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2478  --  MUC  --  2023-05-02T14:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2482  --  MUC  --  2023-05-02T17:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2482  --  MUC  --  2023-05-02T17:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2484  --  MUC  --  2023-05-01T19:40Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  2484  --  MUC  --  2023-05-01T19:40Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  2486  --  MUC  --  2023-05-02T15:25Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2487  --  LHR  --  2023-05-02T18:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2558  --  MUC  --  2023-05-01T20:25Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  2559  --  TBS  --  2023-05-02T01:10Z  --  LH  --  LD
+Fin mise à jour :  2023-05-02 22:23:00.492723
+Debut mise à jour :  2023-05-03 00:00:01.935140
+Debut MAJ Statut pour  3891
+'AircraftRegistration'
+Erreur :  3501  --  QDU  --  2023-05-02T04:17Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  3501  --  QDU  --  2023-05-02T04:17Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  3641  --  MKF  --  2023-05-02T03:49Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  374  --  FRA  --  2023-05-02T15:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  374  --  FRA  --  2023-05-02T15:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  3758  --  FRA  --  2023-05-02T15:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  425  --  BOS  --  2023-05-02T00:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  425  --  BOS  --  2023-05-02T00:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  425  --  BOS  --  2023-05-02T00:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  425  --  BOS  --  2023-05-02T00:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  425  --  BOS  --  2023-05-02T00:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  425  --  BOS  --  2023-05-02T00:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  425  --  BOS  --  2023-05-02T00:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  425  --  BOS  --  2023-05-02T00:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  429  --  CLT  --  2023-05-02T22:30Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  429  --  CLT  --  2023-05-02T22:30Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  429  --  CLT  --  2023-05-02T22:30Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  429  --  CLT  --  2023-05-02T22:30Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  429  --  CLT  --  2023-05-02T22:30Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  429  --  CLT  --  2023-05-02T22:30Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  430  --  FRA  --  2023-05-03T08:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  430  --  FRA  --  2023-05-03T08:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  430  --  FRA  --  2023-05-03T08:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  430  --  FRA  --  2023-05-03T08:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  430  --  FRA  --  2023-05-03T08:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  430  --  FRA  --  2023-05-03T08:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  430  --  FRA  --  2023-05-03T08:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  430  --  FRA  --  2023-05-03T08:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  434  --  MUC  --  2023-05-03T13:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  434  --  MUC  --  2023-05-03T13:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  435  --  ORD  --  2023-05-02T02:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  435  --  ORD  --  2023-05-02T02:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  435  --  ORD  --  2023-05-02T02:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  435  --  ORD  --  2023-05-02T02:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  435  --  ORD  --  2023-05-02T02:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  435  --  ORD  --  2023-05-02T02:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  435  --  ORD  --  2023-05-02T02:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  435  --  ORD  --  2023-05-02T02:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  435  --  ORD  --  2023-05-02T02:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  435  --  ORD  --  2023-05-02T02:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  435  --  ORD  --  2023-05-02T02:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  435  --  ORD  --  2023-05-02T02:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  438  --  FRA  --  2023-05-03T08:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  438  --  FRA  --  2023-05-03T08:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  439  --  DFW  --  2023-05-03T20:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  439  --  DFW  --  2023-05-03T20:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  440  --  FRA  --  2023-05-03T08:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  440  --  FRA  --  2023-05-03T08:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  441  --  IAH  --  2023-05-02T20:45Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  441  --  IAH  --  2023-05-02T20:45Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  442  --  FRA  --  2023-05-03T08:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  442  --  FRA  --  2023-05-03T08:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  443  --  DTW  --  2023-05-03T19:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  443  --  DTW  --  2023-05-03T19:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  445  --  ATL  --  2023-05-02T20:10Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  445  --  ATL  --  2023-05-02T20:10Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  445  --  ATL  --  2023-05-02T20:10Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  445  --  ATL  --  2023-05-02T20:10Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  445  --  ATL  --  2023-05-02T20:10Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  445  --  ATL  --  2023-05-02T20:10Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  445  --  ATL  --  2023-05-02T20:10Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  445  --  ATL  --  2023-05-02T20:10Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  445  --  ATL  --  2023-05-02T20:10Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  445  --  ATL  --  2023-05-02T20:10Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  445  --  ATL  --  2023-05-02T20:10Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  445  --  ATL  --  2023-05-02T20:10Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  445  --  ATL  --  2023-05-02T20:10Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  445  --  ATL  --  2023-05-02T20:10Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  446  --  FRA  --  2023-05-03T11:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  446  --  FRA  --  2023-05-03T11:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  447  --  DEN  --  2023-05-03T23:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  447  --  DEN  --  2023-05-03T23:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  448  --  FRA  --  2023-05-03T08:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  448  --  FRA  --  2023-05-03T08:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  448  --  FRA  --  2023-05-03T08:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  448  --  FRA  --  2023-05-03T08:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  448  --  FRA  --  2023-05-03T08:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  448  --  FRA  --  2023-05-03T08:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  448  --  FRA  --  2023-05-03T08:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  448  --  FRA  --  2023-05-03T08:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  448  --  FRA  --  2023-05-03T08:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  448  --  FRA  --  2023-05-03T08:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  449  --  STL  --  2023-05-03T20:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  449  --  STL  --  2023-05-03T20:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  449  --  STL  --  2023-05-03T20:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  450  --  FRA  --  2023-05-02T11:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  451  --  LAX  --  2023-05-03T01:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  451  --  LAX  --  2023-05-03T01:40Z  --  LH  --  NA
+Fin mise à jour :  2023-05-03 00:16:14.637602
+Debut mise à jour :  2023-05-03 01:26:56.621910
+Debut MAJ Statut pour  6973
+'AircraftRegistration'
+Erreur :  001  --  HAM  --  2023-05-03T04:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  100  --  FRA  --  2023-05-03T08:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1002  --  FRA  --  2023-05-03T19:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1002  --  FRA  --  2023-05-03T19:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1004  --  FRA  --  2023-05-03T04:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1005  --  BRU  --  2023-05-03T06:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1006  --  FRA  --  2023-05-03T05:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1007  --  BRU  --  2023-05-03T07:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1007  --  BRU  --  2023-05-03T07:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1007  --  BRU  --  2023-05-03T07:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  101  --  MUC  --  2023-05-03T08:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  101  --  MUC  --  2023-05-03T08:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1010  --  FRA  --  2023-05-03T09:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1011  --  BRU  --  2023-05-03T11:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1012  --  FRA  --  2023-05-03T11:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1013  --  BRU  --  2023-05-03T12:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1016  --  FRA  --  2023-05-03T14:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1017  --  BRU  --  2023-05-03T16:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1019  --  BRU  --  2023-05-03T18:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1026  --  FRA  --  2023-05-03T05:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1027  --  CDG  --  2023-05-03T07:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1028  --  FRA  --  2023-05-03T06:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1029  --  CDG  --  2023-05-03T08:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1029  --  CDG  --  2023-05-03T08:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  103  --  MUC  --  2023-05-03T09:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1031  --  CDG  --  2023-05-03T09:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1031  --  CDG  --  2023-05-03T09:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1031  --  CDG  --  2023-05-03T09:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1031  --  CDG  --  2023-05-03T09:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1046  --  FRA  --  2023-05-03T15:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1046  --  FRA  --  2023-05-03T15:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  105  --  MUC  --  2023-05-03T10:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1052  --  FRA  --  2023-05-03T19:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1053  --  CDG  --  2023-05-03T04:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1055  --  NTE  --  2023-05-03T10:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1055  --  NTE  --  2023-05-03T10:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  106  --  FRA  --  2023-05-02T11:15Z  --  LH  --  CD
+'AircraftRegistration'
+Erreur :  1060  --  FRA  --  2023-05-03T10:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1060  --  FRA  --  2023-05-03T10:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1064  --  FRA  --  2023-05-03T14:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1065  --  NCE  --  2023-05-03T16:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1065  --  NCE  --  2023-05-03T16:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1065  --  NCE  --  2023-05-03T16:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1068  --  FRA  --  2023-05-03T18:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1068  --  FRA  --  2023-05-03T18:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1075  --  LYS  --  2023-05-03T08:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1075  --  LYS  --  2023-05-03T08:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1075  --  LYS  --  2023-05-03T08:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1078  --  FRA  --  2023-05-03T15:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1079  --  LYS  --  2023-05-03T16:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1082  --  FRA  --  2023-05-03T18:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1086  --  FRA  --  2023-05-03T06:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1086  --  FRA  --  2023-05-03T06:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1088  --  FRA  --  2023-05-03T14:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1089  --  MRS  --  2023-05-03T16:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1089  --  MRS  --  2023-05-03T16:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1089  --  MRS  --  2023-05-03T16:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1094  --  FRA  --  2023-05-03T05:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1094  --  FRA  --  2023-05-03T05:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1097  --  TLS  --  2023-05-03T12:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1097  --  TLS  --  2023-05-03T12:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  011  --  HAM  --  2023-05-03T07:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  110  --  FRA  --  2023-05-03T13:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  110  --  FRA  --  2023-05-03T13:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1100  --  FRA  --  2023-05-03T19:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1101  --  TLS  --  2023-05-03T04:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1102  --  FRA  --  2023-05-03T07:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1103  --  SZG  --  2023-05-03T08:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1103  --  SZG  --  2023-05-03T08:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1107  --  SZG  --  2023-05-03T16:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1109  --  SZG  --  2023-05-03T04:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  111  --  MUC  --  2023-05-03T13:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  111  --  MUC  --  2023-05-03T13:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  111  --  MUC  --  2023-05-03T13:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  111  --  MUC  --  2023-05-03T13:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  111  --  MUC  --  2023-05-03T13:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  111  --  MUC  --  2023-05-03T13:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1114  --  FRA  --  2023-05-03T11:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1116  --  FRA  --  2023-05-03T18:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  112  --  FRA  --  2023-05-03T14:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  112  --  FRA  --  2023-05-03T14:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1120  --  FRA  --  2023-05-03T18:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1122  --  FRA  --  2023-05-03T15:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1124  --  FRA  --  2023-05-03T05:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1124  --  FRA  --  2023-05-03T05:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1128  --  FRA  --  2023-05-03T11:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1129  --  BCN  --  2023-05-03T14:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1129  --  BCN  --  2023-05-03T14:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1129  --  BCN  --  2023-05-03T14:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1129  --  BCN  --  2023-05-03T14:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1129  --  BCN  --  2023-05-03T14:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1134  --  FRA  --  2023-05-03T12:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1135  --  BCN  --  2023-05-03T15:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1136  --  FRA  --  2023-05-03T15:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1136  --  FRA  --  2023-05-03T15:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1137  --  BCN  --  2023-05-03T06:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1139  --  BCN  --  2023-05-03T04:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  114  --  FRA  --  2023-05-03T15:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  114  --  FRA  --  2023-05-03T15:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  114  --  FRA  --  2023-05-03T15:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  114  --  FRA  --  2023-05-03T15:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1142  --  FRA  --  2023-05-03T09:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1145  --  BIO  --  2023-05-03T16:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1148  --  FRA  --  2023-05-03T07:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1148  --  FRA  --  2023-05-03T07:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  115  --  MUC  --  2023-05-03T15:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  115  --  MUC  --  2023-05-03T15:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1151  --  AGP  --  2023-05-03T15:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  116  --  FRA  --  2023-05-03T16:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1163  --  FAO  --  2023-05-03T14:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1164  --  FRA  --  2023-05-03T19:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1166  --  FRA  --  2023-05-03T07:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1166  --  FRA  --  2023-05-03T07:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1167  --  LIS  --  2023-05-03T11:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1168  --  FRA  --  2023-05-03T11:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1169  --  LIS  --  2023-05-03T15:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1172  --  FRA  --  2023-05-03T19:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1173  --  LIS  --  2023-05-03T05:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1173  --  LIS  --  2023-05-03T05:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1173  --  LIS  --  2023-05-03T05:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1176  --  FRA  --  2023-05-03T07:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1177  --  OPO  --  2023-05-03T11:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1177  --  OPO  --  2023-05-03T11:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  118  --  FRA  --  2023-05-03T17:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  118  --  FRA  --  2023-05-03T17:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1180  --  FRA  --  2023-05-03T19:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1182  --  FRA  --  2023-05-03T04:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1182  --  FRA  --  2023-05-03T04:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1183  --  ZRH  --  2023-05-03T06:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1184  --  FRA  --  2023-05-03T05:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1185  --  ZRH  --  2023-05-03T07:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1185  --  ZRH  --  2023-05-03T07:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1185  --  ZRH  --  2023-05-03T07:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1190  --  FRA  --  2023-05-03T11:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1191  --  ZRH  --  2023-05-03T12:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1196  --  FRA  --  2023-05-03T14:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1196  --  FRA  --  2023-05-03T14:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1198  --  FRA  --  2023-05-03T16:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1198  --  FRA  --  2023-05-03T16:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1199  --  ZRH  --  2023-05-03T18:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1201  --  BSL  --  2023-05-03T06:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1201  --  BSL  --  2023-05-03T06:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1203  --  BSL  --  2023-05-03T09:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1207  --  BSL  --  2023-05-03T16:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  121  --  MUC  --  2023-05-03T18:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1211  --  BSL  --  2023-05-03T04:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1212  --  FRA  --  2023-05-03T05:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1217  --  GVA  --  2023-05-03T12:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  122  --  FRA  --  2023-05-03T19:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1227  --  GVA  --  2023-05-03T17:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1227  --  GVA  --  2023-05-03T17:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1242  --  FRA  --  2023-05-03T16:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1243  --  VIE  --  2023-05-03T18:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1243  --  VIE  --  2023-05-03T18:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1262  --  FRA  --  2023-05-03T10:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1262  --  FRA  --  2023-05-03T10:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1263  --  GRZ  --  2023-05-03T12:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1266  --  FRA  --  2023-05-03T20:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  127  --  STR  --  2023-05-03T04:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  127  --  STR  --  2023-05-03T04:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1276  --  FRA  --  2023-05-03T07:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1277  --  MLA  --  2023-05-03T10:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1278  --  FRA  --  2023-05-03T07:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1281  --  ATH  --  2023-05-03T08:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1282  --  FRA  --  2023-05-03T11:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1283  --  ATH  --  2023-05-03T15:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1284  --  FRA  --  2023-05-03T15:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1292  --  FRA  --  2023-05-03T09:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1292  --  FRA  --  2023-05-03T09:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1293  --  LCA  --  2023-05-03T14:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1293  --  LCA  --  2023-05-03T14:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1298  --  FRA  --  2023-05-03T07:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  013  --  HAM  --  2023-05-03T08:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  013  --  HAM  --  2023-05-03T08:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1300  --  FRA  --  2023-05-03T11:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1301  --  IST  --  2023-05-03T14:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1306  --  FRA  --  2023-05-03T08:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1307  --  BEY  --  2023-05-03T13:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1308  --  FRA  --  2023-05-03T20:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1309  --  BEY  --  2023-05-03T01:00Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  131  --  STR  --  2023-05-03T06:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  131  --  STR  --  2023-05-03T06:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1310  --  FRA  --  2023-05-03T11:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1312  --  FRA  --  2023-05-03T18:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1312  --  FRA  --  2023-05-03T18:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1316  --  FRA  --  2023-05-03T07:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1317  --  ALG  --  2023-05-03T11:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1317  --  ALG  --  2023-05-03T11:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1319  --  ALG  --  2023-05-03T01:00Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  132  --  FRA  --  2023-05-03T15:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1323  --  TUN  --  2023-05-03T10:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1326  --  FRA  --  2023-05-03T19:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  133  --  STR  --  2023-05-03T08:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1330  --  FRA  --  2023-05-03T19:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1331  --  CMN  --  2023-05-03T00:15Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1334  --  FRA  --  2023-05-03T05:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1335  --  BUD  --  2023-05-03T07:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1337  --  BUD  --  2023-05-03T09:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1338  --  FRA  --  2023-05-03T10:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1338  --  FRA  --  2023-05-03T10:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1342  --  FRA  --  2023-05-03T20:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1343  --  BUD  --  2023-05-03T04:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1343  --  BUD  --  2023-05-03T04:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1346  --  FRA  --  2023-05-03T05:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1348  --  FRA  --  2023-05-03T10:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1349  --  WAW  --  2023-05-03T12:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1350  --  FRA  --  2023-05-03T14:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1351  --  WAW  --  2023-05-03T17:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1352  --  FRA  --  2023-05-03T18:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1352  --  FRA  --  2023-05-03T18:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  136  --  FRA  --  2023-05-03T20:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  136  --  FRA  --  2023-05-03T20:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  136  --  FRA  --  2023-05-03T20:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1364  --  FRA  --  2023-05-03T06:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1364  --  FRA  --  2023-05-03T06:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1368  --  FRA  --  2023-05-03T15:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1368  --  FRA  --  2023-05-03T15:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  137  --  STR  --  2023-05-03T16:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  137  --  STR  --  2023-05-03T16:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1370  --  FRA  --  2023-05-03T20:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1371  --  KRK  --  2023-05-03T04:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1374  --  FRA  --  2023-05-03T18:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1375  --  WRO  --  2023-05-03T04:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1375  --  WRO  --  2023-05-03T04:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1377  --  GDN  --  2023-05-03T12:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1379  --  GDN  --  2023-05-03T04:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1384  --  FRA  --  2023-05-03T08:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1384  --  FRA  --  2023-05-03T08:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1390  --  FRA  --  2023-05-03T11:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1392  --  FRA  --  2023-05-03T06:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1393  --  PRG  --  2023-05-03T08:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1394  --  FRA  --  2023-05-03T08:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1395  --  PRG  --  2023-05-03T09:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1396  --  FRA  --  2023-05-03T10:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1397  --  PRG  --  2023-05-03T12:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  014  --  FRA  --  2023-05-03T10:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  140  --  FRA  --  2023-05-03T05:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1400  --  FRA  --  2023-05-03T14:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1402  --  FRA  --  2023-05-03T20:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1403  --  PRG  --  2023-05-03T04:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1404  --  FRA  --  2023-05-03T19:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1406  --  FRA  --  2023-05-03T08:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1407  --  BEG  --  2023-05-03T11:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1410  --  FRA  --  2023-05-03T19:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1410  --  FRA  --  2023-05-03T19:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1411  --  BEG  --  2023-05-03T04:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1413  --  SPU  --  2023-05-03T16:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1413  --  SPU  --  2023-05-03T16:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1414  --  FRA  --  2023-05-03T10:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1415  --  ZAG  --  2023-05-03T12:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1415  --  ZAG  --  2023-05-03T12:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1415  --  ZAG  --  2023-05-03T12:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1420  --  FRA  --  2023-05-03T12:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1421  --  OTP  --  2023-05-03T15:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1422  --  FRA  --  2023-05-03T18:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1422  --  FRA  --  2023-05-03T18:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1423  --  OTP  --  2023-05-03T03:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1423  --  OTP  --  2023-05-03T03:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1423  --  OTP  --  2023-05-03T03:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1423  --  OTP  --  2023-05-03T03:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1428  --  FRA  --  2023-05-03T17:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1428  --  FRA  --  2023-05-03T17:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  143  --  NUE  --  2023-05-03T04:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  143  --  NUE  --  2023-05-03T04:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1430  --  FRA  --  2023-05-03T12:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  145  --  NUE  --  2023-05-03T06:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  145  --  NUE  --  2023-05-03T06:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1455  --  TIA  --  2023-05-03T04:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1459  --  LJU  --  2023-05-03T09:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1461  --  LJU  --  2023-05-03T05:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1464  --  FRA  --  2023-05-03T13:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1464  --  FRA  --  2023-05-03T13:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1465  --  VLC  --  2023-05-03T16:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1465  --  VLC  --  2023-05-03T16:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1471  --  TSR  --  2023-05-03T09:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1473  --  CLJ  --  2023-05-03T15:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  148  --  FRA  --  2023-05-03T15:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1496  --  FRA  --  2023-05-03T17:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  015  --  HAM  --  2023-05-03T09:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1520  --  FRA  --  2023-05-03T07:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1520  --  FRA  --  2023-05-03T07:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1522  --  FRA  --  2023-05-03T14:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1522  --  FRA  --  2023-05-03T14:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1523  --  LGW  --  2023-05-03T16:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1526  --  FRA  --  2023-05-03T19:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  153  --  NUE  --  2023-05-03T16:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  154  --  FRA  --  2023-05-03T04:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1541  --  SKP  --  2023-05-03T12:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1544  --  FRA  --  2023-05-03T08:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1545  --  SJJ  --  2023-05-03T10:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1545  --  SJJ  --  2023-05-03T10:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1556  --  FRA  --  2023-05-03T12:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1557  --  SKG  --  2023-05-03T15:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1560  --  FRA  --  2023-05-03T19:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1561  --  EVN  --  2023-05-03T00:35Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1561  --  EVN  --  2023-05-03T00:35Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  158  --  FRA  --  2023-05-03T11:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  158  --  FRA  --  2023-05-03T11:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  159  --  LEJ  --  2023-05-03T06:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  016  --  FRA  --  2023-05-03T11:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1616  --  MUC  --  2023-05-03T18:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1617  --  WAW  --  2023-05-03T04:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1617  --  WAW  --  2023-05-03T04:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1623  --  KRK  --  2023-05-03T11:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1624  --  MUC  --  2023-05-03T12:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1625  --  KRK  --  2023-05-03T14:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1625  --  KRK  --  2023-05-03T14:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1627  --  KRK  --  2023-05-03T04:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  163  --  LEJ  --  2023-05-03T13:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  163  --  LEJ  --  2023-05-03T13:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1630  --  MUC  --  2023-05-03T09:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1647  --  GDN  --  2023-05-03T04:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1650  --  MUC  --  2023-05-03T07:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1651  --  OTP  --  2023-05-03T09:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1654  --  MUC  --  2023-05-03T20:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1654  --  MUC  --  2023-05-03T20:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1655  --  OTP  --  2023-05-03T03:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1657  --  TSR  --  2023-05-03T11:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1660  --  MUC  --  2023-05-03T18:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1661  --  TSR  --  2023-05-03T03:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1674  --  MUC  --  2023-05-03T04:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1675  --  BUD  --  2023-05-03T06:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1676  --  MUC  --  2023-05-03T09:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1677  --  BUD  --  2023-05-03T11:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1678  --  MUC  --  2023-05-03T13:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1678  --  MUC  --  2023-05-03T13:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1679  --  BUD  --  2023-05-03T15:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1683  --  BUD  --  2023-05-03T04:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  017  --  HAM  --  2023-05-03T10:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  170  --  FRA  --  2023-05-03T04:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1702  --  MUC  --  2023-05-03T07:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1702  --  MUC  --  2023-05-03T07:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1704  --  MUC  --  2023-05-03T13:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1705  --  SOF  --  2023-05-03T16:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1710  --  MUC  --  2023-05-03T12:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1711  --  DBV  --  2023-05-03T14:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1711  --  DBV  --  2023-05-03T14:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1712  --  MUC  --  2023-05-03T07:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1713  --  TIA  --  2023-05-03T09:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1714  --  MUC  --  2023-05-03T20:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1716  --  MUC  --  2023-05-03T12:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1717  --  SPU  --  2023-05-03T15:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1717  --  SPU  --  2023-05-03T15:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1726  --  MUC  --  2023-05-03T10:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1726  --  MUC  --  2023-05-03T10:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1727  --  ZAG  --  2023-05-03T11:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1734  --  MUC  --  2023-05-03T08:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1734  --  MUC  --  2023-05-03T08:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1736  --  MUC  --  2023-05-03T13:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1737  --  BEG  --  2023-05-03T15:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1737  --  BEG  --  2023-05-03T15:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1737  --  BEG  --  2023-05-03T15:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1737  --  BEG  --  2023-05-03T15:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  175  --  BER  --  2023-05-03T05:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  175  --  BER  --  2023-05-03T05:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1751  --  ATH  --  2023-05-03T09:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1751  --  ATH  --  2023-05-03T09:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1755  --  ATH  --  2023-05-03T16:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1755  --  ATH  --  2023-05-03T16:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1756  --  MUC  --  2023-05-03T17:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1757  --  ATH  --  2023-05-03T03:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1757  --  ATH  --  2023-05-03T03:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  176  --  FRA  --  2023-05-03T06:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1768  --  MUC  --  2023-05-03T08:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1768  --  MUC  --  2023-05-03T08:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1769  --  LCA  --  2023-05-03T13:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  177  --  BER  --  2023-05-03T06:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1778  --  MUC  --  2023-05-03T09:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1779  --  LIS  --  2023-05-03T13:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1780  --  MUC  --  2023-05-03T17:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1780  --  MUC  --  2023-05-03T17:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1782  --  MUC  --  2023-05-03T06:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1783  --  OPO  --  2023-05-03T10:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1783  --  OPO  --  2023-05-03T10:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1783  --  OPO  --  2023-05-03T10:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1788  --  MUC  --  2023-05-03T19:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1789  --  OPO  --  2023-05-03T05:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1789  --  OPO  --  2023-05-03T05:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1795  --  PMI  --  2023-05-03T12:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1795  --  PMI  --  2023-05-03T12:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1795  --  PMI  --  2023-05-03T12:05Z Debut mise à jour :  2023-05-03 09:39:45.775693
+Debut MAJ Statut pour  6996
+'AircraftRegistration'
+Erreur :  001  --  HAM  --  2023-05-03T04:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  100  --  FRA  --  2023-05-03T08:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1002  --  FRA  --  2023-05-03T19:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1002  --  FRA  --  2023-05-03T19:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1004  --  FRA  --  2023-05-03T04:40Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1005  --  BRU  --  2023-05-03T06:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1006  --  FRA  --  2023-05-03T05:40Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1007  --  BRU  --  2023-05-03T07:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1007  --  BRU  --  2023-05-03T07:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1007  --  BRU  --  2023-05-03T07:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  101  --  MUC  --  2023-05-03T08:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  101  --  MUC  --  2023-05-03T08:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1010  --  FRA  --  2023-05-03T09:30Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1011  --  BRU  --  2023-05-03T11:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1012  --  FRA  --  2023-05-03T11:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1013  --  BRU  --  2023-05-03T12:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1017  --  BRU  --  2023-05-03T16:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1026  --  FRA  --  2023-05-03T05:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1027  --  CDG  --  2023-05-03T07:35Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1028  --  FRA  --  2023-05-03T06:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1029  --  CDG  --  2023-05-03T08:30Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1029  --  CDG  --  2023-05-03T08:30Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  103  --  MUC  --  2023-05-03T09:00Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1031  --  CDG  --  2023-05-03T09:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1031  --  CDG  --  2023-05-03T09:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1031  --  CDG  --  2023-05-03T09:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1031  --  CDG  --  2023-05-03T09:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1046  --  FRA  --  2023-05-03T15:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1046  --  FRA  --  2023-05-03T15:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  105  --  MUC  --  2023-05-03T10:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1052  --  FRA  --  2023-05-03T19:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1053  --  CDG  --  2023-05-03T04:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1055  --  NTE  --  2023-05-03T10:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1055  --  NTE  --  2023-05-03T10:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  106  --  FRA  --  2023-05-02T11:15Z  --  LH  --  CD
+'AircraftRegistration'
+Erreur :  1060  --  FRA  --  2023-05-03T10:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1060  --  FRA  --  2023-05-03T10:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1064  --  FRA  --  2023-05-03T14:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1065  --  NCE  --  2023-05-03T16:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1065  --  NCE  --  2023-05-03T16:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1065  --  NCE  --  2023-05-03T16:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1068  --  FRA  --  2023-05-03T18:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1068  --  FRA  --  2023-05-03T18:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1075  --  LYS  --  2023-05-03T08:30Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1075  --  LYS  --  2023-05-03T08:30Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1075  --  LYS  --  2023-05-03T08:30Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1078  --  FRA  --  2023-05-03T15:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1079  --  LYS  --  2023-05-03T16:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1082  --  FRA  --  2023-05-03T18:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1086  --  FRA  --  2023-05-03T06:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1086  --  FRA  --  2023-05-03T06:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1088  --  FRA  --  2023-05-03T14:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1089  --  MRS  --  2023-05-03T16:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1089  --  MRS  --  2023-05-03T16:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1089  --  MRS  --  2023-05-03T16:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1094  --  FRA  --  2023-05-03T05:50Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1094  --  FRA  --  2023-05-03T05:50Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1097  --  TLS  --  2023-05-03T12:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1097  --  TLS  --  2023-05-03T12:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  011  --  HAM  --  2023-05-03T07:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  110  --  FRA  --  2023-05-03T13:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  110  --  FRA  --  2023-05-03T13:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1100  --  FRA  --  2023-05-03T19:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1101  --  TLS  --  2023-05-03T04:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1102  --  FRA  --  2023-05-03T07:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1103  --  SZG  --  2023-05-03T08:55Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1103  --  SZG  --  2023-05-03T08:55Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1107  --  SZG  --  2023-05-03T16:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1109  --  SZG  --  2023-05-03T04:25Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  111  --  MUC  --  2023-05-03T13:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  111  --  MUC  --  2023-05-03T13:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  111  --  MUC  --  2023-05-03T13:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  111  --  MUC  --  2023-05-03T13:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  111  --  MUC  --  2023-05-03T13:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  111  --  MUC  --  2023-05-03T13:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1114  --  FRA  --  2023-05-03T11:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1116  --  FRA  --  2023-05-03T18:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  112  --  FRA  --  2023-05-03T14:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  112  --  FRA  --  2023-05-03T14:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1120  --  FRA  --  2023-05-03T18:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1122  --  FRA  --  2023-05-03T15:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1124  --  FRA  --  2023-05-03T05:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1125  --  BCN  --  2023-05-03T08:30Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1128  --  FRA  --  2023-05-03T11:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1129  --  BCN  --  2023-05-03T14:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1129  --  BCN  --  2023-05-03T14:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1129  --  BCN  --  2023-05-03T14:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1129  --  BCN  --  2023-05-03T14:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1129  --  BCN  --  2023-05-03T14:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1134  --  FRA  --  2023-05-03T12:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1135  --  BCN  --  2023-05-03T15:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1136  --  FRA  --  2023-05-03T15:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1136  --  FRA  --  2023-05-03T15:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1137  --  BCN  --  2023-05-03T06:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1139  --  BCN  --  2023-05-03T04:50Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  114  --  FRA  --  2023-05-03T15:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  114  --  FRA  --  2023-05-03T15:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  114  --  FRA  --  2023-05-03T15:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  114  --  FRA  --  2023-05-03T15:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1142  --  FRA  --  2023-05-03T09:20Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1145  --  BIO  --  2023-05-03T16:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1148  --  FRA  --  2023-05-03T07:15Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1148  --  FRA  --  2023-05-03T07:15Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  115  --  MUC  --  2023-05-03T15:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  115  --  MUC  --  2023-05-03T15:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1151  --  AGP  --  2023-05-03T15:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  116  --  FRA  --  2023-05-03T16:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1163  --  FAO  --  2023-05-03T14:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1164  --  FRA  --  2023-05-03T19:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1166  --  FRA  --  2023-05-03T07:10Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1166  --  FRA  --  2023-05-03T07:10Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1167  --  LIS  --  2023-05-03T11:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1168  --  FRA  --  2023-05-03T11:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1169  --  LIS  --  2023-05-03T15:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1172  --  FRA  --  2023-05-03T19:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1173  --  LIS  --  2023-05-03T05:25Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1173  --  LIS  --  2023-05-03T05:25Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1173  --  LIS  --  2023-05-03T05:25Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1176  --  FRA  --  2023-05-03T07:30Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1177  --  OPO  --  2023-05-03T11:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1177  --  OPO  --  2023-05-03T11:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  118  --  FRA  --  2023-05-03T17:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  118  --  FRA  --  2023-05-03T17:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1180  --  FRA  --  2023-05-03T19:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1182  --  FRA  --  2023-05-03T04:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1182  --  FRA  --  2023-05-03T04:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1183  --  ZRH  --  2023-05-03T06:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1184  --  FRA  --  2023-05-03T05:50Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1185  --  ZRH  --  2023-05-03T07:35Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1185  --  ZRH  --  2023-05-03T07:35Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1185  --  ZRH  --  2023-05-03T07:35Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1190  --  FRA  --  2023-05-03T11:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1191  --  ZRH  --  2023-05-03T12:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1196  --  FRA  --  2023-05-03T14:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1196  --  FRA  --  2023-05-03T14:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1198  --  FRA  --  2023-05-03T16:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1198  --  FRA  --  2023-05-03T16:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1199  --  ZRH  --  2023-05-03T18:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1201  --  BSL  --  2023-05-03T06:25Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1201  --  BSL  --  2023-05-03T06:25Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1203  --  BSL  --  2023-05-03T09:15Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1206  --  FRA  --  2023-05-03T15:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1207  --  BSL  --  2023-05-03T16:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1207  --  BSL  --  2023-05-03T16:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  121  --  MUC  --  2023-05-03T18:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1211  --  BSL  --  2023-05-03T04:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1212  --  FRA  --  2023-05-03T05:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1217  --  GVA  --  2023-05-03T12:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  122  --  FRA  --  2023-05-03T19:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1227  --  GVA  --  2023-05-03T17:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1227  --  GVA  --  2023-05-03T17:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1242  --  FRA  --  2023-05-03T16:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1243  --  VIE  --  2023-05-03T18:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1243  --  VIE  --  2023-05-03T18:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1262  --  FRA  --  2023-05-03T10:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1262  --  FRA  --  2023-05-03T10:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1263  --  GRZ  --  2023-05-03T12:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1266  --  FRA  --  2023-05-03T20:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  127  --  STR  --  2023-05-03T04:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  127  --  STR  --  2023-05-03T04:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1276  --  FRA  --  2023-05-03T07:15Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1277  --  MLA  --  2023-05-03T10:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1278  --  FRA  --  2023-05-03T07:15Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1281  --  ATH  --  2023-05-03T08:25Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1282  --  FRA  --  2023-05-03T11:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1283  --  ATH  --  2023-05-03T15:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1284  --  FRA  --  2023-05-03T15:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1292  --  FRA  --  2023-05-03T09:05Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1292  --  FRA  --  2023-05-03T09:05Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1293  --  LCA  --  2023-05-03T14:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1293  --  LCA  --  2023-05-03T14:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1298  --  FRA  --  2023-05-03T07:05Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  013  --  HAM  --  2023-05-03T08:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  013  --  HAM  --  2023-05-03T08:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1300  --  FRA  --  2023-05-03T11:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1301  --  IST  --  2023-05-03T14:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1306  --  FRA  --  2023-05-03T08:40Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1307  --  BEY  --  2023-05-03T13:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1308  --  FRA  --  2023-05-03T20:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1309  --  BEY  --  2023-05-03T01:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  131  --  STR  --  2023-05-03T06:20Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  131  --  STR  --  2023-05-03T06:20Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1310  --  FRA  --  2023-05-03T11:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1312  --  FRA  --  2023-05-03T18:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1312  --  FRA  --  2023-05-03T18:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1316  --  FRA  --  2023-05-03T07:35Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1317  --  ALG  --  2023-05-03T11:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1317  --  ALG  --  2023-05-03T11:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1319  --  ALG  --  2023-05-03T01:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  132  --  FRA  --  2023-05-03T15:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1323  --  TUN  --  2023-05-03T10:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1326  --  FRA  --  2023-05-03T19:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  133  --  STR  --  2023-05-03T08:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1330  --  FRA  --  2023-05-03T19:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1331  --  CMN  --  2023-05-03T00:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1334  --  FRA  --  2023-05-03T05:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1335  --  BUD  --  2023-05-03T07:40Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1337  --  BUD  --  2023-05-03T09:10Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1338  --  FRA  --  2023-05-03T10:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1342  --  FRA  --  2023-05-03T20:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1343  --  BUD  --  2023-05-03T04:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1343  --  BUD  --  2023-05-03T04:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1346  --  FRA  --  2023-05-03T05:20Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1348  --  FRA  --  2023-05-03T10:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1349  --  WAW  --  2023-05-03T12:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1350  --  FRA  --  2023-05-03T14:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1351  --  WAW  --  2023-05-03T17:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1352  --  FRA  --  2023-05-03T18:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1352  --  FRA  --  2023-05-03T18:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  136  --  FRA  --  2023-05-03T20:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  136  --  FRA  --  2023-05-03T20:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  136  --  FRA  --  2023-05-03T20:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1364  --  FRA  --  2023-05-03T06:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1364  --  FRA  --  2023-05-03T06:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1368  --  FRA  --  2023-05-03T15:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1368  --  FRA  --  2023-05-03T15:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  137  --  STR  --  2023-05-03T16:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  137  --  STR  --  2023-05-03T16:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1370  --  FRA  --  2023-05-03T20:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1371  --  KRK  --  2023-05-03T04:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1374  --  FRA  --  2023-05-03T18:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1375  --  WRO  --  2023-05-03T04:35Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1375  --  WRO  --  2023-05-03T04:35Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1377  --  GDN  --  2023-05-03T12:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1379  --  GDN  --  2023-05-03T04:50Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1384  --  FRA  --  2023-05-03T08:20Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1384  --  FRA  --  2023-05-03T08:20Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1390  --  FRA  --  2023-05-03T11:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1391  --  POZ  --  2023-05-03T12:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1392  --  FRA  --  2023-05-03T06:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1393  --  PRG  --  2023-05-03T08:25Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1394  --  FRA  --  2023-05-03T08:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1395  --  PRG  --  2023-05-03T09:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1396  --  FRA  --  2023-05-03T10:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1397  --  PRG  --  2023-05-03T12:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  014  --  FRA  --  2023-05-03T10:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  140  --  FRA  --  2023-05-03T05:10Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1400  --  FRA  --  2023-05-03T14:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1402  --  FRA  --  2023-05-03T20:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1403  --  PRG  --  2023-05-03T04:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1404  --  FRA  --  2023-05-03T19:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1406  --  FRA  --  2023-05-03T08:45Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1407  --  BEG  --  2023-05-03T11:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1410  --  FRA  --  2023-05-03T19:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1410  --  FRA  --  2023-05-03T19:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1411  --  BEG  --  2023-05-03T04:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1413  --  SPU  --  2023-05-03T16:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1413  --  SPU  --  2023-05-03T16:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1414  --  FRA  --  2023-05-03T10:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1415  --  ZAG  --  2023-05-03T12:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1415  --  ZAG  --  2023-05-03T12:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1415  --  ZAG  --  2023-05-03T12:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1420  --  FRA  --  2023-05-03T12:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1421  --  OTP  --  2023-05-03T15:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1422  --  FRA  --  2023-05-03T18:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1422  --  FRA  --  2023-05-03T18:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1423  --  OTP  --  2023-05-03T03:20Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1423  --  OTP  --  2023-05-03T03:20Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1423  --  OTP  --  2023-05-03T03:20Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1423  --  OTP  --  2023-05-03T03:20Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1428  --  FRA  --  2023-05-03T17:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1428  --  FRA  --  2023-05-03T17:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  143  --  NUE  --  2023-05-03T04:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  143  --  NUE  --  2023-05-03T04:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1430  --  FRA  --  2023-05-03T12:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  145  --  NUE  --  2023-05-03T06:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  145  --  NUE  --  2023-05-03T06:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1455  --  TIA  --  2023-05-03T04:35Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1459  --  LJU  --  2023-05-03T09:00Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1461  --  LJU  --  2023-05-03T05:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1462  --  FRA  --  2023-05-03T10:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1462  --  FRA  --  2023-05-03T10:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1464  --  FRA  --  2023-05-03T13:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1464  --  FRA  --  2023-05-03T13:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1465  --  VLC  --  2023-05-03T16:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1465  --  VLC  --  2023-05-03T16:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1471  --  TSR  --  2023-05-03T09:35Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1471  --  TSR  --  2023-05-03T09:35Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1473  --  CLJ  --  2023-05-03T15:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  148  --  FRA  --  2023-05-03T15:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1496  --  FRA  --  2023-05-03T17:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  015  --  HAM  --  2023-05-03T09:00Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1520  --  FRA  --  2023-05-03T07:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1520  --  FRA  --  2023-05-03T07:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1522  --  FRA  --  2023-05-03T14:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1522  --  FRA  --  2023-05-03T14:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1523  --  LGW  --  2023-05-03T16:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1526  --  FRA  --  2023-05-03T19:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  153  --  NUE  --  2023-05-03T16:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  154  --  FRA  --  2023-05-03T04:55Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1541  --  SKP  --  2023-05-03T12:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1544  --  FRA  --  2023-05-03T08:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1545  --  SJJ  --  2023-05-03T10:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1545  --  SJJ  --  2023-05-03T10:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1556  --  FRA  --  2023-05-03T12:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1557  --  SKG  --  2023-05-03T15:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1560  --  FRA  --  2023-05-03T19:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1561  --  EVN  --  2023-05-03T00:35Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1561  --  EVN  --  2023-05-03T00:35Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  158  --  FRA  --  2023-05-03T11:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  158  --  FRA  --  2023-05-03T11:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  159  --  LEJ  --  2023-05-03T06:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  016  --  FRA  --  2023-05-03T11:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1604  --  MUC  --  2023-05-03T09:10Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1605  --  RZE  --  2023-05-03T11:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1617  --  WAW  --  2023-05-04T04:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1623  --  KRK  --  2023-05-03T11:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1624  --  MUC  --  2023-05-03T12:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1625  --  KRK  --  2023-05-03T14:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1625  --  KRK  --  2023-05-03T14:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1627  --  KRK  --  2023-05-03T04:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  163  --  LEJ  --  2023-05-03T13:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  163  --  LEJ  --  2023-05-03T13:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1630  --  MUC  --  2023-05-03T09:30Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1647  --  GDN  --  2023-05-03T04:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1650  --  MUC  --  2023-05-03T07:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1651  --  OTP  --  2023-05-03T09:40Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1654  --  MUC  --  2023-05-03T20:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1654  --  MUC  --  2023-05-03T20:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1655  --  OTP  --  2023-05-03T03:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1657  --  TSR  --  2023-05-03T11:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1660  --  MUC  --  2023-05-03T18:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1661  --  TSR  --  2023-05-03T03:20Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1674  --  MUC  --  2023-05-03T04:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1675  --  BUD  --  2023-05-03T06:40Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1676  --  MUC  --  2023-05-03T09:30Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1677  --  BUD  --  2023-05-03T11:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1678  --  MUC  --  2023-05-03T13:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1678  --  MUC  --  2023-05-03T13:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1679  --  BUD  --  2023-05-03T15:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1683  --  BUD  --  2023-05-03T04:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1696  --  MUC  --  2023-05-03T09:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1696  --  MUC  --  2023-05-03T09:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  017  --  HAM  --  2023-05-03T10:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  170  --  FRA  --  2023-05-03T04:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1702  --  MUC  --  2023-05-03T07:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1702  --  MUC  --  2023-05-03T07:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1704  --  MUC  --  2023-05-03T13:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1705  --  SOF  --  2023-05-03T16:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1710  --  MUC  --  2023-05-03T12:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1711  --  DBV  --  2023-05-03T14:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1711  --  DBV  --  2023-05-03T14:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1712  --  MUC  --  2023-05-03T07:20Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1713  --  TIA  --  2023-05-03T09:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1714  --  MUC  --  2023-05-03T20:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1716  --  MUC  --  2023-05-03T12:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1717  --  SPU  --  2023-05-03T15:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1717  --  SPU  --  2023-05-03T15:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1726  --  MUC  --  2023-05-03T10:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1726  --  MUC  --  2023-05-03T10:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1727  --  ZAG  --  2023-05-03T11:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1734  --  MUC  --  2023-05-03T08:50Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1734  --  MUC  --  2023-05-03T08:50Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1736  --  MUC  --  2023-05-03T13:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1737  --  BEG  --  2023-05-03T15:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1737  --  BEG  --  2023-05-03T15:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1737  --  BEG  --  2023-05-03T15:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1737  --  BEG  --  2023-05-03T15:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  175  --  BER  --  2023-05-03T05:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  175  --  BER  --  2023-05-03T05:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1751  --  ATH  --  2023-05-03T09:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1751  --  ATH  --  2023-05-03T09:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1755  --  ATH  --  2023-05-03T16:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1755  --  ATH  --  2023-05-03T16:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1756  --  MUC  --  2023-05-03T17:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1757  --  ATH  --  2023-05-03T03:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1757  --  ATH  --  2023-05-03T03:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  176  --  FRA  --  2023-05-03T06:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1768  --  MUC  --  2023-05-03T08:50Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1768  --  MUC  --  2023-05-03T08:50Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1769  --  LCA  --  2023-05-03T13:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  177  --  BER  --  2023-05-03T06:45Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1778  --  MUC  --  2023-05-03T09:15Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1779  --  LIS  --  2023-05-03T13:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1780  --  MUC  --  2023-05-03T17:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1780  --  MUC  --  2023-05-03T17:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1782  --  MUC  --  2023-05-03T06:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1783  --  OPO  --  2023-05-03T10:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1783  --  OPO  --  2023-05-03T10:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1783  --  OPO  --  2023-05-03T10:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1788  --  MUC  --  2023-05-03T19:20Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1789  --  OPO  --  2023-05-03T05:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1789  --  OPO  --  2023-05-03T05:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1795  --  PMI  --  2023-05-03T12:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1795  --  PMI  --  2023-05-03T12:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1795  --  PMI  --  2023-05-03T12:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1800  --  MUC  --  2023-05-03T06:30Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1801  --  MAD  --  2023-05-03T09:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1802  --  MUC  --  2023-05-03T09:25Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1803  --  MAD  --  2023-05-03T13:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1806  --  MUC  --  2023-05-03T17:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1807  --  MAD  --  2023-05-03T05:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1807  --  MAD  --  2023-05-03T05:15Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1810  --  MUC  --  2023-05-03T07:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1811  --  BCN  --  2023-05-03T09:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1813  --  BCN  --  2023-05-03T11:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1813  --  BCN  --  2023-05-03T11:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1816  --  MUC  --  2023-05-03T13:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1818  --  MUC  --  2023-05-03T17:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1818  --  MUC  --  2023-05-03T17:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1819  --  BCN  --  2023-05-03T05:40Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1822  --  MUC  --  2023-05-03T07:40Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1823  --  SVQ  --  2023-05-03T11:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1823  --  SVQ  --  2023-05-03T11:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1824  --  MUC  --  2023-05-03T06:35Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1828  --  MUC  --  2023-05-03T13:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1829  --  BIO  --  2023-05-03T16:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1829  --  BIO  --  2023-05-03T16:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  183  --  BER  --  2023-05-03T08:45Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1830  --  MUC  --  2023-05-03T19:10Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  184  --  FRA  --  2023-05-03T10:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1842  --  MUC  --  2023-05-03T06:50Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1843  --  VLC  --  2023-05-03T10:05Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1863  --  MXP  --  2023-05-03T04:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1866  --  MUC  --  2023-05-03T06:35Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1869  --  FCO  --  2023-05-03T13:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1870  --  MUC  --  2023-05-03T14:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1870  --  MUC  --  2023-05-03T14:40Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1872  --  MUC  --  2023-05-03T17:35Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1873  --  FCO  --  2023-05-03T06:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1873  --  FCO  --  2023-05-03T06:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1876  --  MUC  --  2023-05-03T08:50Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1877  --  NAP  --  2023-05-03T11:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1877  --  NAP  --  2023-05-03T11:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1877  --  NAP  --  2023-05-03T11:15Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1880  --  MUC  --  2023-05-03T19:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1880  --  MUC  --  2023-05-03T19:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1881  --  NAP  --  2023-05-03T04:05Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1897  --  AOI  --  2023-05-03T11:25Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1907  --  CTA  --  2023-05-04T09:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1907  --  CTA  --  2023-05-04T09:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  191  --  BER  --  2023-05-03T12:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  191  --  BER  --  2023-05-03T12:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1915  --  PMO  --  2023-05-03T09:55Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  192  --  FRA  --  2023-05-03T14:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  192  --  FRA  --  2023-05-03T14:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1928  --  MUC  --  2023-05-03T05:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1929  --  BER  --  2023-05-03T06:50Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1930  --  MUC  --  2023-05-03T06:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1931  --  BER  --  2023-05-03T07:50Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1931  --  BER  --  2023-05-03T07:50Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1934  --  MUC  --  2023-05-03T07:00Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1936  --  MUC  --  2023-05-03T09:00Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  1937  --  BER  --  2023-05-03T10:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1937  --  BER  --  2023-05-03T10:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1937  --  BER  --  2023-05-03T10:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1937  --  BER  --  2023-05-03T10:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1942  --  MUC  --  2023-05-03T12:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1943  --  BER  --  2023-05-03T13:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1943  --  BER  --  2023-05-03T13:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1947  --  BER  --  2023-05-03T15:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1947  --  BER  --  2023-05-03T15:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1949  --  BER  --  2023-05-03T16:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1949  --  BER  --  2023-05-03T16:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1952  --  MUC  --  2023-05-03T16:00Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1953  --  BER  --  2023-05-03T17:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1953  --  BER  --  2023-05-03T17:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1961  --  BER  --  2023-05-03T04:20Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1961  --  BER  --  2023-05-03T04:20Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1962  --  MUC  --  2023-05-03T19:30Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  197  --  BER  --  2023-05-03T15:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1973  --  CGN  --  2023-05-03T06:35Z  --  LH  --  LD
+'AircraftRegistration'
+Erreur :  1976  --  MUC  --  2023-05-03T09:10Z  --  LH  --  DP
+'AircraftRegistration'
+Erreur :  198  --  FRA  --  2023-05-03T16:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  198  --  FRA  --  2023-05-03T16:45Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1980  --  MUC  --  2023-05-03T12:50Z  --  LH  --  NA
+'AircraftRegistration'
+Erreur :  1983  --  CGN  --  2023-05-03T15:50Z  --  LH  --  NA
+Fin mise à jour :  2023-05-03 10:00:12.127744
+Debut mise à jour :  2023-05-03 10:55:09.547919
+Debut MAJ Statut pour  6846
+'AircraftRegistration'
+Erreur Gobale
+local variable 'OperatingCarrierFlightNumber' referenced before assignment
+Debut mise à jour :  2023-05-03 15:00:01.323551
+Debut MAJ Statut pour  6641
+'AircraftRegistration'
+Erreur Gobale
+local variable 'OperatingCarrierFlightNumber' referenced before assignment
