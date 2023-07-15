@@ -1,0 +1,17 @@
+CityResource	Root element of city response.
+.Cities	Container for city elements.
+..City[]	Array of all available cities or one city matching the request.
+...CityCode	3-letter IATA city code, e.g. “FRA”.
+...CountryCode	2-letter ISO 3166-1 country code, e.g. “DE”.
+...Names	Container for city full names.
+....Name[]	Array: language-specific full name of city.
+...UtcOffset	UTC Offset value.
+...TimeZoneId	Time zone of city.
+@LanguageCode	2-letter ISO 639-1 language code for the corresponding item.
+...Airports	Container for airport IATA codes.
+....AirportCode[]	Array: 3-letter IATA airport codes of airports within the city,
+e.g. “LCY”, “LHR” and “STN” for city of London.
+.Meta	Container for meta links.
+..Link[]	
+@Href	Link to actual a resource.
+@Rel	Specifying kind of link such as ‘self’ (link that returned this response), ‘alternate’ (link that points to another resource) or ‘related’ (link that points to related resource).

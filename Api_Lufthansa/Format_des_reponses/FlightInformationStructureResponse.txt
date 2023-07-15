@@ -1,0 +1,115 @@
+FlightInformation	Root element of flight information response.
+.Flights	
+..Flight[] (or) ..Flight	1 – n flights matching the request. (in case of single flight in response, "Flight" is object, not array)
+...Departure	Information on departure of the flight.
+....AirportCode	3 letter IATA airport code of the place of origin, e.g. “FRA”.
+....Scheduled	
+.....Date	Scheduled Date of departure in local time of the departure airport.
+Format: yyyy-MM-dd
+.....Time	Scheduled Time of departure in local time of the departure airport.
+Format: HH:mm
+.....DateTime	Scheduled Date Time of departure in UTC time of the departure airport.
+Format: yyyy-MM-ddTHH:mm.
+....Estimated	
+.....Date	Estimated Date of departure in local time of the departure airport.
+Format: yyyy-MM-dd
+.....Time
+Estimated Time of departure in local time of the departure airport.
+Format: HH:mm
+.....DateTime	Estimated time of departure in UTC time of the departure airport.
+Format: yyyy-MM-ddTHH:mm.
+....Actual	
+.....Date	Actual Date of departure in local time of the departure airport.
+Format: yyyy-MM-dd
+.....Time	Actual Time of departure in local time of the departure airport.
+Format: HH:mm
+.....DateTime	Actual time of departure in UTC time of the departure airport.
+Format: yyyy-MM-ddTHH:mm.
+....Terminal	
+.....Name	Name of the departure terminal.
+.....Gate	Gate where flight is departing from, e.g. “T02”.
+....Status	Departure time-related status of this flight.
+.....Code	Time status code, possible values:
+FE = Flight Early
+NI = Flight Next Information
+OT = Flight On Time
+DL = Flight Delayed
+DP = Flight Departed
+NO = No Status
+.....Description	Long description of the time status. See above.
+...Arrival
+Information on arrival of the flight.
+....AirportCode
+3 letter IATA airport code of the place of destination.
+....Scheduled
+
+.....Date
+Scheduled Date of arrival in local time of the arrival airport.
+Format: yyyy-MM-dd
+.....Time
+Scheduled Time of arrival in local time of the arrival airport.
+Format: HH:mm
+.....DateTime	Scheduled Date Time of arrival in UTC time of the departure airport.
+Format: yyyy-MM-ddTHH:mm.
+....Estimated	
+.....Date	Estimated Date of arrival in local time of the arrival airport.
+Format: yyyy-MM-dd
+.....Time	Estimated Time of arrival in local time of the arrival airport.
+Format: HH:mm
+.....DateTime
+Estimated Date Time of arrival in UTC time of the departure airport.
+Format: yyyy-MM-ddTHH:mm.
+....Actual
+
+.....Date
+Actual Date of arrival in local time of the arrival airport.
+Format: yyyy-MM-dd
+.....Time
+Actual Time of arrival in local time of the arrival airport.
+Format: HH:mm
+.....DateTime	Actual Date Time of arrival in UTC time of the departure airport.
+Format: yyyy-MM-ddTHH:mm.
+....Terminal
+
+.....Name
+Name of the arrival terminal.
+.....Gate
+Gate where flight will arrive, e.g. “T02”.
+....Status
+Arrival time-related status of this flight.
+.....Code
+Time status code, possible values:
+FE = Flight Early
+OT = Flight On Time
+DL = Flight Delayed
+LD = Flight Landed
+NO = No Status
+.....Description
+Long description of the time status. See above.
+...MarketingCarrierList	Contains list of Marketing Carriers, could be 1-N
+....MarketingCarrier	Marketing specific flight details, does not have to be identical with operation specific details.
+.....AirlineID	2 letter IATA airline code, e.g. “LH”.
+.....FlightNumber	Numeric marketing flight number, e.g. “400”.
+...OperatingCarrier	Operating specific flight details, does not have to be identical with marketing specific details.
+....AirlineID	2-letter IATA airline code.
+....FlightNumber	Numeric operating flight number, e.g. “500”.
+...Equipment	Type of aircraft operating this flight.
+....AircraftCode	3 character IATA aircraft code.
+...Status	Overall status of this flight.
+FlightStatus NA will be shown in case no other flight status is available.
+FlightStatus LD is only available in case 'ActualTime...' with the arrival airport is set.
+FlightStatus DP is only available in case 'ActualTime...' with the departure airport is set.
+FlightStatus CD and RT will be shown, in case the flight is cancelled resp. rerouted.
+....Code	Flight status code, possible values:
+CD = Flight Cancelled
+DP = Flight Departed
+LD = Flight Landed
+RT = Flight Rerouted
+DV = Flight Diverted
+HD = Flight Heavy Delay
+FE = Flight Early
+DL = Flight Delayed
+OT = Flight On Time
+NI = Flight Next Information
+NA = No Status
+....Description	Long description of the flight status. See above.

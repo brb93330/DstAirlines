@@ -1,0 +1,23 @@
+{
+    "AirlineResource":{
+       "Airlines":{
+          "Airline":{
+             "AirlineID":"LH",
+             "AirlineID_ICAO":"DLH",
+             "Names":{
+                "Name":{
+                   "@LanguageCode":"EN",
+                   "$":"Lufthansa"
+                }
+             }
+          }
+       },
+       "Meta":{
+          "@Version":"1.0.0",
+          "Link":{
+             "@Href":"https://api.lufthansa.com/v1/mds-references/airlines/LH?limit=100&offset=0",
+             "@Rel":"self"
+          }
+       }
+    }
+ }
